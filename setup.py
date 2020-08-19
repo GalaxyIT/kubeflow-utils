@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Chao Tzu-Hsien",
     author_email="danny900714@gmail.com",
-    description="Kubeflow utils package",
+    description="Kubeflow utils package helping to speed up building ML model.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/GalaxyIT/kubeflow-utils",
